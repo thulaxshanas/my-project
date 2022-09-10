@@ -1,3 +1,1 @@
-# my-project
-Hi, I'm Thulaxshana
-I'm learning GIT
+This is my first git repo
